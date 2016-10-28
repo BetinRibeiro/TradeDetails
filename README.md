@@ -1,0 +1,2 @@
+# TradeDetails
+/TradeDetails
